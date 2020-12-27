@@ -2,6 +2,10 @@ import React from 'react';
 
 export default function Home(){
     return(
-        <p>Oiiiiii</p>
+        <div className="home-container">
+            <div className="hero-container">
+                <h1>Lorena</h1>
+            </div>
+        </div>
     )
 }
