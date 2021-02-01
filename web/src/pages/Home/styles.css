@@ -1,0 +1,23 @@
+.home-container .hero-container{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    margin: 3em 0;
+}
+
+.home-container .hero-container img{
+    width: 20em;
+}
+
+.home-container .hero-container .hero-content{
+    text-align: center;
+}
+
+.home-container .hero-container h1{
+    font-size: 70px;
+}
+
+.home-container .hero-container h2{
+    color: var(--secondary-color)
+}
