@@ -7,6 +7,7 @@ export default function Header(){
             <ul>
                 <li>Projetos</li>
                 <li>Experiências</li>
+                <li>Contato</li>
             </ul>
         </div>
     )

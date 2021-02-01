@@ -1,0 +1,10 @@
+.header-container {
+    margin: 2em 0;
+}
+.header-container ul{
+    display: flex;
+    justify-content: space-around;
+    color: var(--primary-color);
+    font-weight: bold;
+    font-size: 18px;
+}
