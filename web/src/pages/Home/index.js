@@ -18,9 +18,9 @@ export default function Home(){
                 <img src={profile} alt="Lorena Góes Montes" />
             </div>
             <div className="projects">
-                {/* <Project title="xxxxx" description="saasda" github_url="https://github.com/Lorenalgm" image_url="https://i.imgur.com/7LVYmDo.png" /> */}
-                {/* <Project title="xxxxx" description="saasda" github_url="https://github.com/Lorenalgm" image_url="https://i.imgur.com/7LVYmDo.png" /> */}
-                {/* <Project title="xxxxx" description="saasda" github_url="https://github.com/Lorenalgm" image_url="https://i.imgur.com/7LVYmDo.png" /> */}
+                <Project title="xxxxx" description="saasda" github_url="https://github.com/Lorenalgm" image_url="https://i.imgur.com/7LVYmDo.png" />
+                <Project title="xxxxx" description="saasda" github_url="https://github.com/Lorenalgm" image_url="https://i.imgur.com/7LVYmDo.png" />
+                <Project title="xxxxx" description="saasda" github_url="https://github.com/Lorenalgm" image_url="https://i.imgur.com/7LVYmDo.png" />
             </div>
             <div className="videos">
                 {/* <Video title="xxxxx" video_url="https://github.com/Lorenalgm" image_url="https://i.imgur.com/7LVYmDo.png" /> */}

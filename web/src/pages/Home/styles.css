@@ -21,3 +21,10 @@
 .home-container .hero-container h2{
     color: var(--secondary-color)
 }
+
+.home-container .projects{
+    display: flex;
+    flex-wrap: nowrap;
+    -webkit-overflow-scrolling: touch;
+    overflow-x: hidden;
+}
